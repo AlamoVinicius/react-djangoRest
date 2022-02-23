@@ -1,0 +1,24 @@
+{
+  "name": "react-djangorest",
+  "version": "1.0.0",
+  "description": "app full stack with django backend and react at front",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlamoVinicius/react-djangoRest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlamoVinicius/react-djangoRest/issues"
+  },
+  "homepage": "https://github.com/AlamoVinicius/react-djangoRest#readme",
+  "devDependencies": {
+    "webpack": "^5.69.1",
+    "webpack-cli": "^4.9.2"
+  }
+}
