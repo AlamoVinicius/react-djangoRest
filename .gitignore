@@ -1,5 +1,5 @@
-node_modules
 
+node_modules
 ### Django ###
 *.log
 *.pot
@@ -8,7 +8,7 @@ __pycache__/
 local_settings.py
 db.sqlite3
 media
-settings.py
+node_modules
 
 # If your build process includes running collectstatic, then you probably don't need or want to include staticfiles/
 # in your Git repository. Update and uncomment the following line accordingly.
